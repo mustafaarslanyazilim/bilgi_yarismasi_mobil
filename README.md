@@ -11,4 +11,6 @@ A new Flutter project.
 SORULARIN İLERLEMİŞ HALİ 
 Alt kısımda doğru veya yanlışa göre butonlar ekledim.
 Doğru veya yanlış bilinmesine göre gülen yüz veya üzgün yüz eklemesi yaptım.
+
+-----------------------------------------------------
 ![image](https://github.com/user-attachments/assets/517ce286-e235-432c-a24f-b29e1d1ad50a)

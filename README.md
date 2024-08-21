@@ -4,13 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/ca7164b3-f463-480d-939e-2870d466c1ba)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-----------------------------------------
+SORULARIN İLERLEMİŞ HALİ 
+Alt kısımda doğru veya yanlışa göre butonlar ekledim.
+Doğru veya yanlış bilinmesine göre gülen yüz veya üzgün yüz eklemesi yaptım.
+![image](https://github.com/user-attachments/assets/517ce286-e235-432c-a24f-b29e1d1ad50a)
